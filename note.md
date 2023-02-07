@@ -23,8 +23,8 @@
 * git merge {branch name} (Hợp các nhánh)
 * git branch -d {branch name} (xóa đi một branch)
 * git push (đẩy local repo lên remote repo)
-* git remote add origin {url repo}
-* git push origin {branch name}
-* git clone {url repo}
-* git fetch origin
-* git checkout -b {branch name} origin {branch name}
+* git remote add origin {url repo} (chuyển url repo thành origin)
+* git push origin {branch name}  (push dự án đã chỉnh sửa lên github theo branch name)
+* git clone {url repo} (tải dự án từ github về máy)
+* git fetch origin (Chuyển đổi origin)
+* git checkout -b {branch name} origin {branch name} (chuyển nhánh branch theo origin vừa fetch)
