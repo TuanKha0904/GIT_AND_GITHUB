@@ -16,3 +16,5 @@
 * git checkout {branch name}  (trở lại thời điểm dự án)
 * git branch (xem branch mặc định)
 * git checkout -b {branch name} (tạo ra một nhánh mới)
+* git merge {branch name} (Hợp các nhánh)
+* git branch -d {branch name} (xóa đi một branch)
