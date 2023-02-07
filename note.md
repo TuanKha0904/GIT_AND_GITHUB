@@ -3,6 +3,8 @@
   dự án của ta.
 * Branch
 * Conflict
+* Local
+* Remote
 
 # Commands (Lệnh)
 * git init (Làm dự án trở thành một git repository tức là 
@@ -20,3 +22,4 @@
 * git checkout -b {branch name} (tạo ra một nhánh mới)
 * git merge {branch name} (Hợp các nhánh)
 * git branch -d {branch name} (xóa đi một branch)
+* git push (đẩy local repo lên remote repo)
