@@ -2,6 +2,8 @@
 * Repository (Repo) -> Mang nghĩa như là một thư mục hoặc một 
   dự án của ta.
 * Branch
+* Conflict
+
 # Commands (Lệnh)
 * git init (Làm dự án trở thành một git repository tức là 
   một dự án có thể sử dụng được git)
