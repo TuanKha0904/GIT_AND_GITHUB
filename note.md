@@ -23,3 +23,8 @@
 * git merge {branch name} (Hợp các nhánh)
 * git branch -d {branch name} (xóa đi một branch)
 * git push (đẩy local repo lên remote repo)
+* git remote add origin {url repo}
+* git push origin {branch name}
+* git clone {url repo}
+* git fetch origin
+* git checkout -b {branch name} origin {branch name}
